@@ -5,17 +5,16 @@ export default function Home() {
   return (
     <Template>
       <header className="text-center">
-        <h1 className="font-extrabold text-6xl">Inner Din</h1>
+        <h1 className="font-extrabold text-6xl">Din</h1>
         <p className="text-lg max-w-xl">
-          Inner Din, or ID for short, is a spiritual power inside of you that
-          can can enlighten you and awaken your inner talents and desires.
+          Hi, I&apos;m a tall black man with a GPA of 3.89.
         </p>
         <div className="flex gap-2 mt-6 justify-center">
-          <Link href="findid" className="btn-primary">
-            Find Your ID
+          <Link href="projects" className="btn-primary">
+            Projects
           </Link>
-          <Link href="findid" className="btn-secondary">
-            Learn More
+          <Link href="din" className="btn-secondary">
+            About Me
           </Link>
         </div>
       </header>

@@ -13,16 +13,18 @@ export default function Nav() {
         Home
       </Link>
       <Link
-        href="/findid"
-        className={`link ${router.pathname == "/findid" ? "link-active" : ""}`}
+        href="/projects"
+        className={`link ${
+          router.pathname == "/projects" ? "link-active" : ""
+        }`}
       >
-        Find Your ID
+        Projects
       </Link>
       <Link
-        href="/whatsid"
-        className={`link ${router.pathname == "/whatsid" ? "link-active" : ""}`}
+        href="/din"
+        className={`link ${router.pathname == "/din" ? "link-active" : ""}`}
       >
-        What&apos;s ID
+        About Me
       </Link>
     </nav>
   )
