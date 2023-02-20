@@ -8,7 +8,7 @@ export default function Projects() {
         <p className="max-w-lg">
           I&apos;m a tall black man from State of Western Australia (I think).
           Got a PHD in Keynote University, which I founded. I have a 1600 FIDE
-          rating (probably).
+          rating (probably). <i>text</i>
         </p>
       </main>
     </Template>
