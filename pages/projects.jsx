@@ -13,10 +13,10 @@ export default function Home() {
             <div className="bg-black text-white grid place-content-center w-14 h-14 mb-2 text-xl font-bold rounded-[100%] ">
               1
             </div>
-            <h1 className="font-bold text-2xl">Larry Stickman</h1>
+            <h1 className="font-bold text-2xl">Larry Stickmen</h1>
             <p className="text-lg max-w-xl">
-              A keynote game *heavily inspired* by Henry Stickmin. Spanning 400+
-              slides, it took me about 69 hours. A spent a good amount of time
+              A keynote game <i>heavily inspired</i> by Henry Stickmin. Spanning 400+
+              slides, it took me in the range of 69-420 hours. A spent a good amount of time
               on the breathtaking visuals. The sound effects, graphics, and the
               overall experience is first-rate.
             </p>
@@ -30,13 +30,16 @@ export default function Home() {
             <div className="bg-black text-white grid place-content-center w-14 h-14 mb-2 text-xl font-bold rounded-[100%]">
               2
             </div>
-            <h1 className="font-bold text-2xl">Time Machine</h1>
+            <h1 className="font-bold text-2xl">The Bicycle Time Machine</h1>
             <p className="text-lg max-w-xl">
-              I invented this time machine on the way back home on a 420
-              year-old bycicle 20 years ago when I had a 69,000$ debt. It uses
+              I invented this time machine on the way back home on an ancient bicycle that
+              dates back to Ancient Egypt 20 years ago when I had a 69,000$ debt. When I saw the bicycle,
+              it was broken, but immediately got repaired and looks brand new upon touching it. The time machine uses
               quantum physics and many advanced concepts that definitely I used.
-              So, <strong>so</strong>, advanced that even I can&apos;t
-              understand.
+              The concepts are so, <strong>so</strong>, advanced that even I can&apos;t
+              understand. The time machine is named &quot;The Bicycle Time Machine&quot; as a tribute to the bicycle that this thing was 
+              invented on, and the concepts used in the making of this time machine are now commonly called &quot;Bicycle Physics&quot;.
+              Both the bicycle and the time machine are now preserved in a museum for enternity.
             </p>
           </div>
         </article>
