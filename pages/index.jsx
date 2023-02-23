@@ -7,7 +7,7 @@ export default function Home() {
       <header className="text-center">
         <h1 className="font-extrabold text-6xl">Din</h1>
         <p className="text-lg max-w-xl">
-          Hi, I&apos;m a tall black man with a GPA of 3.89.
+          Hi, I&apos;m a tall black man with a GPA of 3.89, and possibly the most powerful being in existence.
         </p>
         <div className="flex gap-2 mt-6 justify-center">
           <Link href="projects" className="btn-primary">
