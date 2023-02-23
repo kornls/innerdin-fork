@@ -51,7 +51,7 @@ export default function Home() {
             <div className="bg-black text-white grid place-content-center w-14 h-14 mb-2 text-xl font-bold rounded-[100%]">
               3
             </div>
-            <h1 className="font-bold text-2xl"></h1>
+            <h1 className="font-bold text-2xl">Keynote</h1>
             <p className="text-lg max-w-xl">
               Since I use Keynote a lot, it has probably come to light that it
               was my very own invention. I pitched the concept Steve Jobs
